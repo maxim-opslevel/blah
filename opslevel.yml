@@ -1,0 +1,15 @@
+---
+version: 1
+service:
+  name: platform.repo
+  lifecycle: 
+  tier: 
+  product: 
+  owner: 
+  language: 
+  framework: 
+  description: 
+  aliases:
+  tags: 
+  tools: 
+  dependencies: 
